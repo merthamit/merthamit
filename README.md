@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I am a frontend developer.</h3>
-<img align="right" alt="Coding" width="400" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif' />
+<img align="right" alt="Coding" width="400" src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ3ZmFlMTExY2YxYzFiM2UyZTllZjA5ZWVjZjcyOTI2ZDMwNGI5MiZjdD1z/eNAsjO55tPbgaor7ma/giphy.gif' />
 - 🌱 I’m currently learning **React, Next, Gatsby, HTML, CSS, Javascript, Python**
 
 - 👨‍💻 All of my projects are available at [...](...)
