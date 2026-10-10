@@ -22,6 +22,7 @@
 |---|---|---|
 | [**Online-Education-App**](https://github.com/merthamit/Online-Education-App) | N-tier e-learning platform with Admin / Teacher / Student panels, course ratings, teacher applications, JWT auth, Redis caching, RabbitMQ events and Cloudinary CDN — fully containerized | C# · .NET 8 · ASP.NET Core · EF Core · SQL Server · Redis · RabbitMQ · Docker |
 | [**restaurant-app-laravel-react**](https://github.com/merthamit/restaurant-app-laravel-react) | Restaurant web application with a Laravel API and React frontend | PHP · Laravel · React |
+| [**picture-shop-laravel-react**](https://github.com/merthamit/picture-shop-laravel-react) | Digital picture marketplace: upload and sell pictures, Stripe payments, download after purchase, star ratings & reviews, categories, token-based auth | PHP · Laravel · Sanctum · React · Redux Toolkit · Stripe |
 | [**book-shop-laravel**](https://github.com/merthamit/book-shop-laravel) | Online book shop built with Laravel | PHP · Laravel · Blade |
 | [**Over-300-leetcode-solutions**](https://github.com/merthamit/Over-300-leetcode-solutions) | 300+ solved algorithm and data structure problems | Python |
 
@@ -42,6 +43,7 @@
 **Frontend**
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -59,6 +61,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
