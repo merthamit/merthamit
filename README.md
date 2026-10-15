@@ -21,9 +21,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [**Online-Education-App**](https://github.com/merthamit/Online-Education-App) | N-tier e-learning platform with Admin / Teacher / Student panels, course ratings, teacher applications, JWT auth, Redis caching, RabbitMQ events and Cloudinary CDN — fully containerized | C# · .NET 8 · ASP.NET Core · EF Core · SQL Server · Redis · RabbitMQ · Docker |
-| [**restaurant-app-laravel-react**](https://github.com/merthamit/restaurant-app-laravel-react) | Restaurant web application with a Laravel API and React frontend | PHP · Laravel · React |
-| [**picture-shop-laravel-react**](https://github.com/merthamit/picture-shop-laravel-react) | Digital picture marketplace: upload and sell pictures, Stripe payments, download after purchase, star ratings & reviews, categories, token-based auth | PHP · Laravel · Sanctum · React · Redux Toolkit · Stripe |
-| [**book-shop-laravel**](https://github.com/merthamit/book-shop-laravel) | Online book shop built with Laravel | PHP · Laravel · Blade |
+| [**picture-shop-laravel-react**](https://github.com/merthamit/picture-shop-laravel-react) | Digital picture marketplace: upload and sell pictures, Stripe payments, signed CDN downloads after purchase, star ratings & reviews. Orders are processed asynchronously on a RabbitMQ queue (3 retries with backoff), the catalog is cached in Redis (1h TTL, flushed on change), and the whole stack runs on Docker with CI tests | PHP · Laravel 11 · Sanctum · React · Redux Toolkit · Stripe · MySQL · Redis · RabbitMQ · Cloudinary CDN · Docker |
 | [**Over-300-leetcode-solutions**](https://github.com/merthamit/Over-300-leetcode-solutions) | 300+ solved algorithm and data structure problems | Python |
 
 <h3 align="left">🧰 Languages and Tools</h3>
@@ -56,6 +54,7 @@
 **Databases, Messaging & DevOps**
 <p align="left">
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
